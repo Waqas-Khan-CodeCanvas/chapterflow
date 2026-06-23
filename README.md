@@ -194,6 +194,30 @@ Book Heaven is a modern MERN stack bookstore project designed to demonstrate ful
 
 ---
 
+
+
+---
+
+## 👨‍💻 Author
+
+### Waqas Khan
+
+Computer Science student at UET Peshawar and passionate Full-Stack & AI Developer from Pakistan. I enjoy building modern web applications, backend systems, automation tools, and open-source projects.
+
+- 🌐 GitHub: https://github.com/Waqas-Khan-CodeCanvas
+- 💼 LinkedIn: https://linkedin.com/in/waqaskhan-dev
+- 📧 Email: waqaskhan0589@gmail.com
+
+### 🚀 Other Projects
+
+- **Toastify-CTK** — Beautiful toast notifications for CustomTkinter.
+- **Scholarship Finder** — AI-powered scholarship discovery platform.
+- **WhatsApp Bulk Message Bot** — Python automation tool for WhatsApp messaging.
+
+Feel free to connect, collaborate, or contribute to any of my projects.
+
+---
+
 ## 📌 SEO Keywords
 
 MERN Stack Bookstore, React Book Store Project, Full Stack Book Store App, MongoDB Book Store, Node.js Book Store, Express.js Ecommerce Project, React Ecommerce Website, Online Book Store MERN, JWT Authentication Project, Redux Toolkit Project, Full Stack Ecommerce Application, MERN Stack Portfolio Project.
